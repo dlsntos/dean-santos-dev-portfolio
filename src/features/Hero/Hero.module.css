@@ -10,6 +10,6 @@
 
 .profileImage {
   height: auto;
-  width: clamp(100px, 30vw, 400px);
+  width: clamp(320px, 30vw, 400px);
   margin-right: auto;
 }
