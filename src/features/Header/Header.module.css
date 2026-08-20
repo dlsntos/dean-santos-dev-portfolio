@@ -9,3 +9,9 @@ nav ul {
   gap: clamp(1rem, 10vw, 6rem);
   list-style: none;
 }
+
+.logo {
+  background-color: black;
+  height: 60px;
+  width: 150px;
+}
