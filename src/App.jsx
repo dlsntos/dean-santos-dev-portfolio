@@ -1,5 +1,10 @@
+import Header from "./features/Header/Header";
 function App() {
-  return <></>;
+  return (
+    <>
+      <Header />
+    </>
+  );
 }
 
 export default App;
