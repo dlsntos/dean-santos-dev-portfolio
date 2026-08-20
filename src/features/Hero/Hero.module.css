@@ -1,9 +1,15 @@
 .heroContainer {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-evenly;
+}
+
+.heroContainer > div {
+  flex: 1;
 }
 
 .profileImage {
   height: auto;
   width: clamp(100px, 30vw, 400px);
+  margin-right: auto;
 }
