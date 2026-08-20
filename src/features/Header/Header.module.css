@@ -6,6 +6,6 @@ header {
 
 nav ul {
   display: flex;
-  gap: 7rem;
+  gap: clamp(1rem, 10vw, 6rem);
   list-style: none;
 }
