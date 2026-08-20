@@ -1,7 +1,7 @@
 header {
   display: flex;
   justify-content: space-between;
-  padding: 1rem;
+  padding: 1rem clamp(1rem, 5vw, 5rem);
 }
 
 nav ul {
