@@ -13,6 +13,10 @@ nav ul {
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 .logo {
   background-color: black;
   height: 60px;
