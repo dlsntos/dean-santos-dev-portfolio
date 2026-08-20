@@ -5,7 +5,7 @@ import profileImage from "../../assets/profile.jpg";
 function Hero() {
   return (
     <section className={styles.heroContainer}>
-      <div className="">
+      <div className={styles.heroProfile}>
         <div>
           <img className={styles.profileImage} src={profileImage} alt="" />
         </div>

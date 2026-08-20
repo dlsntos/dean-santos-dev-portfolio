@@ -8,8 +8,12 @@
   flex: 1;
 }
 
+.heroProfile {
+  display: flex;
+  justify-content: center;
+}
+
 .profileImage {
   height: auto;
   width: clamp(320px, 30vw, 400px);
-  margin-right: auto;
 }
