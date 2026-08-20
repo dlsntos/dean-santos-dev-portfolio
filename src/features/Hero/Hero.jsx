@@ -7,7 +7,7 @@ function Hero() {
     <section className={styles.heroContainer}>
       <div className="">
         <div>
-          <img src={profileImage} alt="" />
+          <img className={styles.profileImage} src={profileImage} alt="" />
         </div>
       </div>
       <div className={styles.heroContent}>

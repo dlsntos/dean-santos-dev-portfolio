@@ -2,3 +2,8 @@
   display: flex;
   justify-content: space-evenly;
 }
+
+.profileImage {
+  height: auto;
+  width: clamp(100px, 30vw, 400px);
+}
