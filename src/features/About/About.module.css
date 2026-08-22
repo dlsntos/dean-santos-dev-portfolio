@@ -8,3 +8,7 @@
 h2 {
   margin-bottom: 2.5em;
 }
+
+p {
+  width: clamp(300px, 50vw, 80ch);
+}
