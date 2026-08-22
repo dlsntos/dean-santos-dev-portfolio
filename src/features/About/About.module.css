@@ -10,5 +10,6 @@ h2 {
 }
 
 p {
+  text-align: justify;
   width: clamp(300px, 50vw, 80ch);
 }
