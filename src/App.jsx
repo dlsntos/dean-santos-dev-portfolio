@@ -1,4 +1,4 @@
-import Header from "./features/Header/Header";
+import Header from "./components/Header/Header";
 import Hero from "./features/Hero/Hero";
 function App() {
   return (
